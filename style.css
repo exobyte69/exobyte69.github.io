@@ -6,7 +6,9 @@ body {
   background-image: url("vapor.gif");
   color: white;
   font-family: Comic Sans MS;
-  
+}
+
+
  div {
   resize: both;
   overflow: auto;
